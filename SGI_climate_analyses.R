@@ -8,12 +8,12 @@
 # Repo   : https://github.com/mrcornish/VCR_hard_clam_chron
 
 #     Authors: Michael R. Cornish1* 
-#.         and Max C.N. Castorani1
+#         and Max C.N. Castorani1
 
 #Affiliations:
 # Department of Environmental Sciences, University of Virginia, 
 #  Charlottesville, Virginia, USA. 
-#. *Corresponding author: mcornish@virginia.edu 	
+# *Corresponding author: mcornish@virginia.edu 	
 
 
 #Author Contribution Statement: This research was supported by Virginia 
@@ -38,7 +38,7 @@
 #      ├─ vcr_envirn_data.csv     : in-situ logger SST 1982-2020
 #      ├─ site_chrons3.csv        : shell-level SGI (cross-dated, detrended)
 #      ├─ master_chron_neg_exp.csv (Population-level chrinology, used only for window search)
-#      └─ seagrass/ <*.shp>       : Annual VIMS seagrass polygons 2001-2020
+#      └─ seagrass/ <*.shp>       : Annual VIMS seagrass polygons 2001-2020 
 #
 #  ── Outputs ───────────────────────────────────────────────────────────────
 #  • site_df.rds         : row-level DF with SGI, SST windows, distance
